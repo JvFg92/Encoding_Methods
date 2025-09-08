@@ -33,13 +33,13 @@ This project requires the `matplotlib` library to create and save the signal plo
 
 1. Create a new folder:
 ```bash
-   mkdir Ecoding_Methods
-   cd Ecoding_Methods
+   mkdir Encoding_Methods
+   cd Encoding_Methods
  ```
 
 2. Clone the repository:  
 ```bash
-   git clone https://github.com/JvFg92/Ecoding_Methods/
+   git clone https://github.com/JvFg92/Encoding_Methods/
 ```
 
 ---
